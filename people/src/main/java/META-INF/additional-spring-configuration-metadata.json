@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "log4j.logger.org.hibernate.engine.internal.StatisticalLoggingSessionEventListener",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.logger.org.hibernate.engine.internal.StatisticalLoggingSessionEventListener'"
+  },
+  {
+    "name": "org.hibernate.stat",
+    "type": "java.lang.String",
+    "description": "A description for 'org.hibernate.stat'"
+  }
+]}
